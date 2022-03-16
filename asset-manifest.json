@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/guide-react-gh-pages/static/css/main.56e6221f.css",
-    "main.js": "/guide-react-gh-pages/static/js/main.129ea3f4.js",
-    "index.html": "/guide-react-gh-pages/index.html",
-    "main.56e6221f.css.map": "/guide-react-gh-pages/static/css/main.56e6221f.css.map",
-    "main.129ea3f4.js.map": "/guide-react-gh-pages/static/js/main.129ea3f4.js.map"
+    "main.css": "/covid-protocol/static/css/main.56e6221f.css",
+    "main.js": "/covid-protocol/static/js/main.2f64adfe.js",
+    "index.html": "/covid-protocol/index.html",
+    "main.56e6221f.css.map": "/covid-protocol/static/css/main.56e6221f.css.map",
+    "main.2f64adfe.js.map": "/covid-protocol/static/js/main.2f64adfe.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.129ea3f4.js"
+    "static/js/main.2f64adfe.js"
   ]
 }
